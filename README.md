@@ -3,7 +3,7 @@
 1. Clone this and create your own repo.
 2. Run the code.
 2. Read the questions.
-3. Code the component in the "Answer" tab (make sure to commit your codes to your own repo once)
+3. Code the component in the "Answer" tab (make sure to commit your codes to your own repo)
 4. Deploy the code to hosting. (can refer to the vercel deployment)
 
 
